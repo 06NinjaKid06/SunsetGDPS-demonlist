@@ -24,3 +24,6 @@ The name of the creator is (creator name)
 
 # Additonal info
 Extra info I want to add about this level is:
+
+# Place
+This should be in #(insert place number)
