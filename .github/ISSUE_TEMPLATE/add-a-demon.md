@@ -2,7 +2,7 @@
 name: Add a demon
 about: Add a demon to the demon list.
 title: "[DEMON] (demon name)"
-labels: ''
+labels: demon
 assignees: 06NinjaKid06
 
 ---

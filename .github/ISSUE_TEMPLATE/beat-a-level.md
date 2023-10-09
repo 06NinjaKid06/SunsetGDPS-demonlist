@@ -2,7 +2,7 @@
 name: Beat a level
 about: Add a level beaten to a demon
 title: "[BEAT] (insert demon title)"
-labels: ''
+labels: beat
 assignees: 06NinjaKid06
 
 ---
