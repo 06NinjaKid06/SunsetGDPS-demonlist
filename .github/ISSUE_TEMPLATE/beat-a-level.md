@@ -1,8 +1,8 @@
 ---
 name: Beat a level
 about: Add a level beaten to a demon
-title: "[BEAT] (insert demon title)"
-labels: beat
+title: "[BEAT/VERIFIED] (insert demon title)"
+labels: beat, verify
 assignees: 06NinjaKid06
 
 ---
