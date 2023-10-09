@@ -1,6 +1,12 @@
+@font-face {
+  font-family: pusab;
+  src: url(PUSAB__.otf);
+}
+
 body {
   background-color: #212121;
   color: white;
+  font-family: pusab;
 }
 
 a {
