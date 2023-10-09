@@ -1,5 +1,5 @@
 # The Sunset GDPS Demon List
-This is the source code for the demon list of [Sunset GDPS](https://sunsetgdps.ps.fhgdps.com).
+This is the source code for the development branch of the demon list of [Sunset GDPS](https://sunsetgdps.ps.fhgdps.com).
 
 # Want to put a demon on the list?
 You could make an issue with the details of the demon, and it might be added!
